@@ -15,7 +15,6 @@ fields:
   name: author
   label: author
 pages:
-- content/post/el-tercer-post-desde-el-cms.md
 - content/post/friedriech-nietzsche.md
 - content/post/nuevo-post-de-giao.md
 - content/post/nuevo-post-directo-de-cms-a-github.io.md
