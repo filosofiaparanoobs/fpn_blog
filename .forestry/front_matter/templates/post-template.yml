@@ -16,3 +16,4 @@ fields:
   label: author
 pages:
 - content/post/nuevo-post-de-giao.md
+- content/post/nuevo-post-directo-de-cms-a-github.io.md
