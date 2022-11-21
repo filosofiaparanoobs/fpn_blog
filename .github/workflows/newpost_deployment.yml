@@ -46,5 +46,7 @@ jobs:
         with:
             external_repository: filosofiaparanoobs/filosofiaparanoobs.github.io
             publish_branch: main
+            user_name: Giaochan
+            user_email: giaosebastian7@gmail.com
             github_token: ${{ secrets.GITHUB_TOKEN }}
             publish_dir: ./public
