@@ -1,38 +1,20 @@
-archetypeDir           = "archetypes"
-author                 = "Giao Chan Fong"
-baseUrl                = "https://filosofiaparanoobs.github.io/"
-buildDrafts            = false
-relativeURLs           = true
-canonifyUrls           = true
-contentDir             = "content"
-languageCode           = "en-us"
-layoutDir              = "layouts"
-publishDir             = "public"
-theme                  = "pixyll"
-themesDir              = "themes"
-title                  = "Filosofía para noobs | hugo-theme-pixyll"
-enableEmoji            = true
-DefaultContentLanguage = "en"
-#disqusShortname        = ""
-
-[Languages]
-[Languages.en]
-weight = 1
-
-[Languages.ru]
-weight = 2
-
-[blackfriday]
-angledQuotes = true
-hrefTargetBlank = true
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseUrl = "https://filosofiaparanoobs.github.io/"
+canonifyurls = true
+title = "Filosofia para noobs"
+author = "admin"
+theme = "pixyll"
+disqusShortname = "sitename"
 
 [indexes]
   category = "categories"
   tag = "tags"
 
 [params]
-  mainSections = ["post"]
-  search_engine = false
-  #google_analytics_id = ""
-  twitter_username = "username"
+  #search_engine = false | commented to disable search bar 
+  #google_analytics_id = "XX-XXXXXXXX-X" | Not using google_analytics for the moment
+  #twitter_username = "username" | Not using Twitter for the moment
   paginate = 5
