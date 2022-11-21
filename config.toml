@@ -17,4 +17,5 @@ disqusShortname = "sitename"
   #search_engine = false | commented to disable search bar 
   #google_analytics_id = "XX-XXXXXXXX-X" | Not using google_analytics for the moment
   #twitter_username = "username" | Not using Twitter for the moment
+  logo = "uploads/fpn_logo.png"
   paginate = 5
