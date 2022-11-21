@@ -14,5 +14,3 @@ fields:
 - type: text
   name: author
   label: author
-pages:
-- content/post/nuevo-post-directo-de-cms-a-github.io.md
