@@ -49,7 +49,7 @@ Hay una gran diferencia entre **amar** algo y **aceptar** algo. Cuando amas algo
 
 Nuestro filósofo alemán llegó a conectar tanto con este concepto, que incluso escribió a uno de sus amigos lo siguiente:
 
-> "Estoy en un estado de ánimo fatalista de 'entrega a Dios', lo llamo \[\[#¿Qué es Amor fati?|Amor fati\]\], tanto que estaría dispuesto a precipitarme a las fauces de un león".
+> "Estoy en un estado de ánimo fatalista de 'entrega a Dios', lo llamo Amor fati, tanto que estaría dispuesto a precipitarme a las fauces de un león".
 
 Pero espera:
 Tampoco se trata de que vayas por la vida **tomando riesgos innecesarios** y **buscando problemas** con la excusa de que amas tu destino.
