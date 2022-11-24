@@ -5,22 +5,21 @@ tags = ["Amor fati", "Nietzsche", "Aprendiendo Filosofía", "Filosofiaparanoobs"
 title = "Amor fati de Nietzsche"
 
 +++
-
 ![imagen de amor fati](/uploads/header.png "¿Qué es amor fati?")
 
 El concepto de Amor fati de Nietzsche puede sonar complicado al principio, ya que se explica de manera diferente en la mayoría de sitios.
 
 Pero tranquilo:
+
 En este **blog de filosofía** te explicamos de manera **sencilla** los conceptos más complicados, usando un **método intuitivo** para que puedas entender a grandes rasgos a que se refería el autor.
 
-Cuando Friedrich Nietzsche acuñó el término, se encontraba en momentos difíciles en su vida. Es por esto que \[\[#¿Qué es Amor fati?|Amor fati\]\] puede encontrarse en dos de sus obras más conocidas:
+Cuando Friedrich Nietzsche acuñó el término, se encontraba en **momentos difíciles en su vida**. Inlcuso escribió acerca de **Amor fati** en dos de sus obras más conocidas:
 
-> Cada vez más quiero aprender a ver como bello aquello que es necesario en las cosas – así me volveré uno de aquellos que hacen cosas bellas. \[\[#¿Qué es Amor fati?|Amor fati\]\]: sea éste futuramente ¡mi amor! No quiero hacer guerra a lo que es feo. No quiero acusar, no quiero ni siquiera acusar a los acusadores. ¡Que mi única negación sea desviar la mirada! Es, todo sumado y en conjunto: ¡quiero ser, algún día, apenas alguien que dice Sí!
+> Cada vez más quiero aprender a ver como bello aquello que es necesario en las cosas – así me volveré uno de aquellos que hacen cosas bellas. Amor fati: sea éste futuramente ¡mi amor! No quiero hacer guerra a lo que es feo. No quiero acusar, no quiero ni siquiera acusar a los acusadores. ¡Que mi única negación sea desviar la mirada! Es, todo sumado y en conjunto: ¡quiero ser, algún día, apenas alguien que dice Sí!
 >
 > \- Friedrich Nietzsche: _La Gaya Ciencia_
 
-> Mi fórmula para expresar la grandeza en el hombre es \[\[#¿Qué es Amor fati?|Amor fati\]\]; no querer tener nada de diverso de lo que se tiene, nada antes, nada después, nada por toda la eternidad.
-> Ama tu destino, que es, en realidad tu vida.
+> Mi fórmula para expresar la grandeza en el hombre es Amor fati; no querer tener nada de diverso de lo que se tiene, nada antes, nada después, nada por toda la eternidad. Ama tu destino, que es, en realidad tu vida.
 >
 > \- Friedrich Nietzsche: _Ecce Homo_
 
