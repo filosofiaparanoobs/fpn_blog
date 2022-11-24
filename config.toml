@@ -5,9 +5,9 @@ builddrafts = false
 baseUrl = "https://filosofiaparanoobs.github.io/"
 canonifyurls = true
 title = "Filosofia para noobs"
-author = "admin"
+author = "Giao Chan"
 theme = "pixyll"
-disqusShortname = "sitename"
+#disqusShortname = "sitename" | Don't want comments for the moment
 
 [indexes]
   category = "categories"
