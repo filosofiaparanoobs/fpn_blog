@@ -15,4 +15,5 @@ fields:
   name: author
   label: author
 pages:
+- content/post/10-frases-de-filosofas-que-marcaron-al-mundo.md
 - content/post/amor-fati-de-nietzsche.md
