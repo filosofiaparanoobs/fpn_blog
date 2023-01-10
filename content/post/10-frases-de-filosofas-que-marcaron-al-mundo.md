@@ -28,8 +28,26 @@ Filósofa, escritora y poetisa del siglo XIV. Sus obras abordan temas como la ed
 
 Fue una figura destacada en el mundo de la filosofía y la política de su época y es conocida por sus correspondencias con Descartes y por sus contribuciones al pensamiento filosófico. También es conocida por su defensa de la igualdad y la justicia social.
 
-5. **"Si tiene conocimiento, deje que otros se iluminen con él"** Sarah Margaret Fuller (siglo XIX)
+5. **"El matrimonio es la tumba del amor y de la confianza"** Olympe de Gouges (siglo XIX)
+
+Es autora de la Declaración de los derechos de la mujer y la ciudadana, una de las primeras demandas de derechos de las mujeres. A pesar de su papel importante en el movimiento de derechos de las mujeres, fue condenada a muerte durante la Revolución francesa y ejecutada en 1793.
+
+6. **"Si tiene conocimiento, deje que otros se iluminen con él"** Sarah Margaret Fuller (siglo XIX)
 
 Se destacó como una de las primeras escritoras y periodistas profesionales de Estados Unidos. Es conocida por su defensa de los derechos de las mujeres y de los esclavos y por sus escritos sobre feminismo, literatura y cultura.
 
-La estructura de las creencias es tan fuerte que permite que algunos tipos de violencia se justifiquen o ni siquiera sean considerados como violencia. Así, vemos que no se habla de asesinados sino de bajas, y que no se menciona la guerra sino la lucha por la libertad. Judith Butler (siglo XX)
+7. **"La estructura de las creencias es tan fuerte que permite que algunos tipos de violencia se justifiquen o ni siquiera sean considerados como violencia. Así, vemos que no se habla de asesinados sino de bajas, y que no se menciona la guerra sino la lucha por la libertad"** Judith Butler (siglo XX)
+
+Conocida por su teoría del género y la performatividad., su obra influyó  en las disciplinas de filosofía, literatura, teatro, psicología y estudios feministas. Es autora del libro "Gender Trouble", publicado en 1990, que se ha convertido en un clásico en los estudios de género.
+
+8. **"Dios… Un ser cuya única definición es que está más allá de de la capacidad de la mente humana para ser comprendido"** Ayn Rand (siglo XX)
+
+Sus escritos promovían una filosofía individualista y la idea de la auto-realización a través del laissez-faire capitalismo. Sus ideas han influenciado el conservadurismo y el libertarianismo estadounidenses y su legado sigue siendo objeto de debate en la actualidad.
+
+9. **“La filosofía es una preparación para la muerte, y el filósofo el hombre que está maduro para ella”** María Zambrano (siglo XX)
+
+Su obra se caracteriza por su énfasis en la libertad individual y su compromiso con la democracia y la libertad política. Exiliada durante la guerra civil española, retornó a España en 1944 y fue miembro de la Real Academia Española. 
+
+10. **"Cualquier mujer que entiende los problemas de llevar una casa, entenderá mejor los problemas de llevar un país"** Graciela del Hierro (siglo XX)
+
+Procedente de una familia académica, católica y tradicional, fue una filósofa especializada en ética que introdujo la filosofía feminista en México. En 1978 fundó la Asociación Filosófica Feminista de México.
