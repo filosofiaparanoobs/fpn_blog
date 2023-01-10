@@ -32,4 +32,4 @@ Fue una figura destacada en el mundo de la filosofía y la política de su époc
 
 Se destacó como una de las primeras escritoras y periodistas profesionales de Estados Unidos. Es conocida por su defensa de los derechos de las mujeres y de los esclavos y por sus escritos sobre feminismo, literatura y cultura.
 
-"La buena suerte no es casual, es producto del trabajo; así la sonrisa de la fortuna tiene que ganarse a pulso" Judith Butler (siglo XX)
+La estructura de las creencias es tan fuerte que permite que algunos tipos de violencia se justifiquen o ni siquiera sean considerados como violencia. Así, vemos que no se habla de asesinados sino de bajas, y que no se menciona la guerra sino la lucha por la libertad. Judith Butler (siglo XX)
