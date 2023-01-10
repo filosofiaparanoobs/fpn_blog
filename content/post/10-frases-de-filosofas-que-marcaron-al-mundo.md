@@ -1,7 +1,6 @@
 +++
 author = "Alejandro Alvarado"
 date = 2023-01-10T05:00:00Z
-draft = true
 tags = ["Mujeres filósifas", "Frases célebres"]
 title = "10 frases de Filósofas para reflexionar"
 
