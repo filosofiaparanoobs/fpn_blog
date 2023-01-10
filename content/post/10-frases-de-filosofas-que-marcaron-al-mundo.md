@@ -5,7 +5,6 @@ tags = ["Mujeres filósifas", "Frases célebres"]
 title = "10 frases de Filósofas para reflexionar"
 
 +++
-![](file:///C:/Users/USUARIO/Downloads/10-frases-de-fil%C3%B3sofas-para-reflexionar.jpg)
 
 A lo largo de la historia, las **mujeres** han sido excluidas de muchas disciplinas académicas, incluyendo la filosofía. Sin embargo, a pesar de estos obstáculos, algunas han logrado destacar en este campo y han dejado una huella duradera en la historia de la filosofía.
 
