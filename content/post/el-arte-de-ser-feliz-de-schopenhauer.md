@@ -5,6 +5,8 @@ slug = "el arte de ser feliz de schopenhauer"
 title = "El Arte de ser feliz de Schopenhauer"
 
 +++
+![](/uploads/el-arte-de-ser-feliz-de-schopenhauer.jpg)
+
 El arte de ser feliz es un tema que ha sido discutido desde hace siglos por filósofos, psicólogos y pensadores de todo el mundo. Uno de los filósofos que se ha dedicado específicamente a este tema es **Arthur Schopenhauer**, quien en su obra "El mundo como voluntad y representación" ofrece una visión única sobre cómo lograr la felicidad.
 
 Según Schopenhauer, la felicidad no puede ser encontrada en el mundo exterior, sino que es un estado interno que se alcanza mediante la comprensión y la aceptación de la naturaleza de la existencia humana. El filósofo sostiene que la humanidad está constantemente **buscando satisfacción** en cosas externas, como el dinero, el poder y las relaciones, pero que estas cosas nunca podrán proporcionar una verdadera felicidad duradera.
