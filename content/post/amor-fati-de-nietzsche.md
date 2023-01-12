@@ -13,7 +13,7 @@ Pero tranquilo:
 
 En este **blog de filosofía** te explicamos de manera **sencilla** los conceptos más complicados, usando un **método intuitivo** para que puedas entender a grandes rasgos a que se refería el autor.
 
-Cuando Friedrich Nietzsche acuñó el término, se encontraba en **momentos difíciles en su vida**. Inlcuso escribió acerca de **Amor fati** en dos de sus obras más conocidas:
+Cuando Friedrich Nietzsche acuñó el término, se encontraba en **momentos difíciles en su vida**. Incluso escribió acerca de **Amor fati** en dos de sus obras más conocidas:
 
 > Cada vez más quiero aprender a ver como bello aquello que es necesario en las cosas – así me volveré uno de aquellos que hacen cosas bellas. Amor fati: sea éste futuramente ¡mi amor! No quiero hacer guerra a lo que es feo. No quiero acusar, no quiero ni siquiera acusar a los acusadores. ¡Que mi única negación sea desviar la mirada! Es, todo sumado y en conjunto: ¡quiero ser, algún día, apenas alguien que dice Sí!
 >
@@ -28,7 +28,7 @@ Te explico en términos simples:
 
 ## ¿Qué es Amor fati?
 
-En pocas palabras, **Amor fati** significa «ama al destino» o «amar el destino», Nietzsche se refería a que no tenemos que resisitirnos a nuestro destino, ya que la **esencia de la vida** está en los **problemas** o **desafios** que se nos presentan.
+En pocas palabras, **Amor fati** significa «ama al destino» o «amar el destino», Nietzsche se refería a que no tenemos que resistirnos a nuestro destino, ya que la **esencia de la vida** está en los **problemas** o **desafíos** que se nos presentan.
 
 ![ama tu destino amor fati](/uploads/amatudestino.png "Ama tu destino")
 
