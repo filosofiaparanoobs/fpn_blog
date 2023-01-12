@@ -6,6 +6,8 @@ tags = ["Albert Camus", "Nihilismo"]
 title = "¿Qué es el Nihilismo de Albert Camus?"
 
 +++
+![](/uploads/que-es-el-nihilismo-de-albert-camus.jpg)
+
 El nihilismo es una corriente filosófica que afirma la carencia de sentido o propósito en la vida. Es una **visión desesperanzada** del mundo que se ha desarrollado en varias formas a lo largo de la historia, pero uno de los pensadores más conocidos en este tema es Albert Camus.
 
 Camus, un escritor y filósofo francés, desarrolló una teoría del nihilismo que se centra en la idea de que la vida es **absurda**. Según él, el ser humano se enfrenta a una contradicción fundamental entre su **deseo** de significado y propósito en la vida y la realidad del mundo, que es completamente **carente** de sentido.
@@ -17,6 +19,8 @@ El nihilismo de Camus no es una filosofía negativa, sino una forma de liberaci�
 En lugar de aceptar la desesperanza del nihilismo, Camus aboga por la rebelión contra el absurdo. Para él, la rebelión es una forma de resistir al nihilismo y encontrar un sentido en la vida. En su obra "El hombre rebelde", Camus argumenta que la rebelión es una forma de afirmar la dignidad humana y luchar contra la opresión y la injusticia.
 
 ## Albert Camus vs. el Nihilismo de Nietzsche
+
+![](/uploads/camus-vs-nietzsche.jpg)
 
 Albert Camus y Friedrich Nietzsche son dos filósofos que escribieron sobre el nihilismo, pero sus **enfoques** y conclusiones son diferentes.
 
