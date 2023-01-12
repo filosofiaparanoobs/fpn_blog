@@ -12,4 +12,5 @@ fields:
   name: slug
   label: slug
 pages:
+- content/post/el-arte-de-ser-feliz-de-schopenhauer.md
 - content/post/que-es-el-cosmos-nihilista.md
