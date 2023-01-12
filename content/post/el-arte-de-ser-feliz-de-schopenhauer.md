@@ -1,6 +1,5 @@
 +++
 date = 2023-01-12T05:00:00Z
-draft = true
 slug = "el arte de ser feliz de schopenhauer"
 title = "El Arte de ser feliz de Schopenhauer"
 
