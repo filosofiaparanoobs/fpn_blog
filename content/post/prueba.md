@@ -1,7 +1,6 @@
 +++
 author = "Giao Chan Fong"
 date = 2023-01-13T05:00:00Z
-draft = true
 tags = ["filosofiaparanoobs"]
 title = "Prueba"
 
