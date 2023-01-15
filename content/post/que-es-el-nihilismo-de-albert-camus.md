@@ -3,9 +3,10 @@ author = "Alejandro Alvarado"
 date = 2023-01-12T05:00:00Z
 tags = ["Albert Camus", "Nihilismo"]
 title = "¿Qué es el Nihilismo de Albert Camus?"
+image_url = "https://filosofiaparanoobs.github.io/uploads/que-es-el-nihilismo-de-albert-camus.jpg"
 
 +++
-![](/uploads/que-es-el-nihilismo-de-albert-camus.jpg)
+&nbsp;
 
 El nihilismo es una corriente filosófica que afirma la carencia de sentido o propósito en la vida. Es una **visión desesperanzada** del mundo que se ha desarrollado en varias formas a lo largo de la historia, pero uno de los pensadores más conocidos en este tema es Albert Camus.
 

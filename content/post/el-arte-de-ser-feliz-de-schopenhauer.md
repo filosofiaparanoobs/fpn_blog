@@ -2,9 +2,9 @@
 date = 2023-01-12T05:00:00Z
 slug = "el arte de ser feliz de schopenhauer"
 title = "El Arte de ser feliz de Schopenhauer"
-
+image_url = "https://filosofiaparanoobs.github.io/uploads/el-arte-de-ser-feliz-de-schopenhauer.jpg"
 +++
-![](/uploads/el-arte-de-ser-feliz-de-schopenhauer.jpg)
+&nbsp;
 
 El arte de ser feliz es un tema que ha sido discutido desde hace siglos por filósofos, psicólogos y pensadores de todo el mundo. Uno de los filósofos que se ha dedicado específicamente a este tema es **Arthur Schopenhauer**, quien en su obra "El mundo como voluntad y representación" ofrece una visión única sobre cómo lograr la felicidad.
 

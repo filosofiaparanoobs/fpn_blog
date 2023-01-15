@@ -3,9 +3,9 @@ author = "Giao Chan"
 date = 2022-11-23T05:00:00Z
 tags = ["Amor fati", "Nietzsche", "Aprendiendo Filosofía", "Filosofiaparanoobs"]
 title = "Amor fati de Nietzsche"
-
+image_url = "https://filosofiaparanoobs.github.io/uploads/header.png"
 +++
-![imagen de amor fati](/uploads/header.png "¿Qué es amor fati?")
+&nbsp;
 
 El concepto de Amor fati de Nietzsche puede sonar complicado al principio, ya que se explica de manera diferente en la mayoría de sitios.
 

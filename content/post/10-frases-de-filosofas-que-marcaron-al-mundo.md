@@ -3,9 +3,9 @@ author = "Alejandro Alvarado"
 date = 2023-01-10T05:00:00Z
 tags = ["Mujeres filósifas", "Frases célebres"]
 title = "10 frases de Filósofas para reflexionar"
-
+image_url = "https://filosofiaparanoobs.github.io/uploads/10-frases-de-filosofas-para-reflexionar.jpg"
 +++
-![](/uploads/10-frases-de-filosofas-para-reflexionar.jpg "Filosofas de la historia")
+&nbsp;
 
 A lo largo de la historia, las **mujeres** han sido excluidas de muchas disciplinas académicas, incluyendo la filosofía. Sin embargo, a pesar de estos obstáculos, algunas han logrado destacar en este campo y han dejado una huella duradera en la historia de la filosofía.
 

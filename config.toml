@@ -7,6 +7,7 @@ canonifyurls = true
 title = "Filosofia para noobs"
 author = "Giao Chan"
 theme = "pixyll"
+
 #disqusShortname = "sitename" | Don't want comments for the moment
 
 [indexes]
@@ -14,7 +15,7 @@ theme = "pixyll"
   tag = "tags"
 
 [params]
-  #search_engine = false | commented to disable search bar 
+  #search_engine = true
   #google_analytics_id = "XX-XXXXXXXX-X" | Not using google_analytics for the moment
   #twitter_username = "username" | Not using Twitter for the moment
   logo = "uploads/fpn_logo.png"

@@ -3,8 +3,10 @@ date = 2023-01-12T05:00:00Z
 draft = true
 slug = "que es el cosmos nihilista"
 title = "¿Qué es el Cosmos Nihilista?"
-
+image_url = "https://filosofiaparanoobs.github.io/uploads/que-es-el-nihilismo-de-albert-camus.jpg"
 +++
+&nbsp;
+
 El cosmos nihilista es una teoría filosófica que sostiene que la existencia es carente de propósito o sentido inherente. Según esta teoría, el universo es simplemente un conjunto de eventos físicos causales sin ningún tipo de intención o finalidad detrás de ellos.
 
 El nihilismo se deriva de la palabra latina nihil, que significa "nada". Los nihilistas creen que no hay valores morales absolutos, que la verdad no existe, y que no hay metas o propósitos en la vida. En lugar de esto, el universo es visto como un lugar vacío y sin sentido.
